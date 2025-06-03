@@ -74,8 +74,8 @@ The divider is available in vertical style. Simply append the modifier `is-verti
 </div>
 {{< /preview >}}
 
-### Alignement
-The divider is available in different alignements (by default divider text is centered).
+### Alignment
+The divider is available in different Alignments (by default divider text is centered).
 
 To change the divider alignment, use the `is-left` or `is-right` modifier on the `divider`:
 {{< preview id="alignment" lang="html" >}}
@@ -85,7 +85,7 @@ To change the divider alignment, use the `is-left` or `is-right` modifier on the
     <div class="divider is-right">Right</div>
 </div>
 
-<p>When applied to a vertical divider alignments are converted to <code>top</code> and <code>bottom</code> alignements.</p>
+<p>When applied to a vertical divider alignments are converted to <code>top</code> and <code>bottom</code> Alignments.</p>
 <div style="display: flex;">
     <div style="flex: 1;height: 100px; background-color: #f4f5f8"></div>
     <div class="divider is-vertical is-left">And</div>
